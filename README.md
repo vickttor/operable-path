@@ -23,6 +23,9 @@ If you want to change the code, it's necessary use a code editor of your prefere
 
 ## Preview
 
+![img](./screenshots/start_script.png)
+
+![img](./screenshots/options.png)
 
 ## How to use
 
