@@ -16,10 +16,10 @@ To execute this code it's necessary have a linux operating system, because the c
 When done, you will need to enable the run option for file.sh:
 
 ```bash
-  chmod +r operable-path.sh
+  chmod +r operable-paths.sh
 ```
 
-If you want change the code, it's necessary use a code editor of your preference. I recommend use [Visual Studio Code](https://code.visualstudio.com/download).
+If you want to change the code, it's necessary use a code editor of your preference. I recommend use [Visual Studio Code](https://code.visualstudio.com/download).
 
 ## Preview
 
