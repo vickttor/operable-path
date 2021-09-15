@@ -4,9 +4,9 @@
 
 I'm currently learning shell scripting and I know how difficult it is to change directories via the terminal. So I thought about coding an automated and interactive shell script. Thus, the user only needs to enter the folder and name files to navigate between directories. To control, the code is running in a "while loop" until the user stop and the user needs to enter a number listed in the options. Choosing a number, the script will execute the code necessary for the action.
 
-#### Status do Projeto
+#### Project Status
 
-**🚀 Finalizado**
+**🚀 Finished **
 
 ## prerequisites
 
